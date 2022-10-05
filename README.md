@@ -72,7 +72,7 @@
 <b>👉  මෙතනිම් බොට්ව Deploy 💻 කරන්න...
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/rajpootshabbir13/heroku.com/deploy)
 
 
 
@@ -93,7 +93,7 @@
 
 ----
 
-<!-- Contact Owner -->
+<!-- Contact Owner -->https://wa.me/923078071982
 <b><details><summary>Contact</summary></b>
 
 *  ```Connect With Me```
