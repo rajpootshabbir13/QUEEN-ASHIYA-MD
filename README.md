@@ -58,7 +58,7 @@
 
 <b>👉  මෙතනින් qr එක Scan 🔎 කරන්න... 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ishansandeepa18/QUEEN-ASHIYA-MD?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/rajpootshabbir13/QUEEN-ASHIYA-MD?v=1)
 
 
 
@@ -98,7 +98,7 @@
 
 *  ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94786746412"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923078071982"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br>
 </p>
 
